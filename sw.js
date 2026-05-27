@@ -1,4 +1,4 @@
-const CACHE = 'golf-score-v1';
+const CACHE = 'golf-score-v2';
 const ASSETS = ['./', './index.html'];
 
 self.addEventListener('install', e => {
